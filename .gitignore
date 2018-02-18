@@ -140,3 +140,5 @@ ENV/
 
 ######## ATOM ########
 .atom-build.*
+example.css
+example.html
